@@ -151,6 +151,12 @@ Additional filters can be introduced for product categories, retailer types, and
 5. Use January–July metrics for fair comparisons between years.
 6. Analyze product, retailer, and country breakdowns to investigate performance drivers.
 
+   **Dashboard:**Google Studio 
+   [Overview](https://datastudio.google.com/reporting/b795f8f5-0ce1-46f3-9e91-236d666ee002)
+   [BigQuery](https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1swbs-sabah!2sGoExplore)
+   [others Dashboard](https://datastudio.google.com/reporting/ee7d989a-aa13-4fd0-b979-1dbcf2f66aeb)
+   
+
 ##  Data Quality and Limitations
 
 - **Estimated profitability:** Gross profit is an estimate based on the available unit cost and sales price fields. It may not include all operating, logistics, marketing, or other business costs.
